@@ -1,0 +1,25 @@
+1. Config Git
+  $git config --global user.name "username"
+  $git config --global user.email "email@example.com"
+  
+2. Check status about config
+  $git congig --list
+ 
+3. Create git repository
+  $git init
+  
+4. Check status of repository
+  $git status
+  
+5. Track file to repository
+  $git add <filename> OR $git add .
+  *$git add . : add all file
+  
+6. Create snapshot for repository
+  $git commit -m "Your message"
+  
+7. Check that list to do
+  $git log
+  
+
+ 
