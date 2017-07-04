@@ -3,7 +3,7 @@
   $git config --global user.email "email@example.com"
   
 2. Check status about config
-  $git congig --list
+  $git config --list
  
 3. Create git repository
   $git init
